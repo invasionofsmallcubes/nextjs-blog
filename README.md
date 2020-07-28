@@ -1,3 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is the GitHub pages for [The Invasion Of Small Cubes](http://invasionofsmallcubes.github.io/).
 
-[Current tutorial page](https://nextjs.org/learn/basics/assets-metadata-css/assets)
+[Current tutorial page](https://nextjs.org/learn/basics/data-fetching/pre-rendering)
